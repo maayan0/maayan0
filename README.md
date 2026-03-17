@@ -3,7 +3,7 @@
 **`Projetos pessoais de Mayan`**
 <img align="right" alt="gif" height="190px" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif"/> 
 <div>
-<p>Desenvolvimento de progrmas voltados para a robotica e sistemas embarcados (nas horas vagas vejo um pouco de webdev). Concluiu o Ensino Medio no IFBA, como tecnico em eletronica e atualmente cursa Engenharia Eletrica na Universidade Federal da Bahia</p>
+<p>Desenvolvimento de programas voltados para robótica, sistemas embarcados e automação (nas horas vagas, vejo um pouco de webdev). Concluiu o Ensino Médio no IFBA, como técnico em eletrônica, e atualmente cursa Engenharia Elétrica na Universidade Federal da Bahia.</p>
 </div>
   <div>
     <h3 align="left">‎ </h3>
