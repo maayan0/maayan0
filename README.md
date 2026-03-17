@@ -4,7 +4,7 @@
 
 Desenvolvimento de progrmas voltados para a robotica e sistemas embarcados (nas horas vagas vejo um pouco de webdev). Concluiu o Ensino Medio no IFBA, como tecnico em eletronica e atualmente cursa Engenharia Eletrica na Universidade Federal da Bahia
 <br/>
-<img align="right" alt="gif" height="190px" src=https://pin.it/1jkpDyjsH> 
+<img align="right" alt="gif" height="190px" src=(https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif> 
   <div>
     <h3 align="left">‎ </h3>
   </div>
