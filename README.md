@@ -3,6 +3,11 @@
 **`Projetos pessoais de Mayan`**
 
 Desenvolvimento de progrmas voltados para a robotica e sistemas embarcados (nas horas vagas vejo um pouco de webdev). Concluiu o Ensino Medio no IFBA, como tecnico em eletronica e atualmente cursa Engenharia Eletrica na Universidade Federal da Bahia
+<br/>
+<img align="right" alt="gif" height="190px" src=https://pin.it/1jkpDyjsH> 
+  <div>
+    <h3 align="left">‎ </h3>
+  </div>
 
 ## 📖 linguagens e tecnologias
 <img 
