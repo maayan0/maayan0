@@ -4,7 +4,7 @@
 
 Desenvolvimento de progrmas voltados para a robotica e sistemas embarcados (nas horas vagas vejo um pouco de webdev). Concluiu o Ensino Medio no IFBA, como tecnico em eletronica e atualmente cursa Engenharia Eletrica na Universidade Federal da Bahia
 
-### 📖 linguagens e tecnologias
+## 📖 linguagens e tecnologias
 <img 
     align="left" 
     alt="Arduino"
@@ -41,7 +41,7 @@ Desenvolvimento de progrmas voltados para a robotica e sistemas embarcados (nas 
 <br />
 <br />
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
