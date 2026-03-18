@@ -47,7 +47,6 @@
 <br />
 
 ## 📊 Estatísticas
-<div>
 <p>
 <img 
     height="170" 
@@ -62,7 +61,7 @@
       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight"/>
   </p>
 
-</div>
+
 
 
 
