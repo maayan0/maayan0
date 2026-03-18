@@ -48,23 +48,30 @@
 
 ## 📊 Estatísticas
 <p>
-<img 
+  <img
+    align="left"
     height="170" 
     width="390"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=maayan0&show_icons=true&theme=tokyonight&count_private=true" 
-  />
+    />
   </p>
+  
   <p>
     <img 
+      align="right"
       height="155" 
       width="390"
       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight"/>
   </p>
 
+#
 
-
-
-
-  <h3 align="left">‎ </h3>
+<div>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maayan0/maayan0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maayan0/maayan0/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maayan0/maayan0/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
 
