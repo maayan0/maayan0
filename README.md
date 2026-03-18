@@ -55,17 +55,17 @@
     src="https://github-readme-stats-one-bice.vercel.app/api?username=maayan0&show_icons=true&theme=tokyonight&count_private=true" 
   />
   </p>
-</div>
-
-<div>
   <p>
     <img 
-    height="155" 
-    width="390"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight"/>
+      height="155" 
+      width="390"
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight"/>
   </p>
+
 </div>
-<div>
+
+
+
   <h3 align="left">‎ </h3>
 </div>
 
