@@ -6,7 +6,7 @@
 <p>Desenvolvimento de programas voltados para robótica, sistemas embarcados e automação (nas horas vagas, vejo um pouco de webdev). Concluiu o Ensino Médio no IFBA, como técnico em eletrônica, e atualmente cursa Engenharia Elétrica na Universidade Federal da Bahia.</p>
 </div>
   <div>
-    <h3 align="left">‎ </h3>
+    <h3 align="left">‎aaa </h3>
   </div>
 
 ## 📖 linguagens e tecnologias
