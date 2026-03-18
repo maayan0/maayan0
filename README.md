@@ -64,8 +64,9 @@
       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight"/>
   </p>
 
-#
+<br />
 
+<br />
 <div>
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maayan0/maayan0/output/github-contribution-grid-snake-dark.svg">
