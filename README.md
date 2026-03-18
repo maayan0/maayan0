@@ -47,16 +47,24 @@
 <br />
 
 ## 📊 Estatísticas
-
+<div>
 <p>
 <img 
     height="170" 
     width="390"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=maayan0&show_icons=true&theme=tokyonight&count_private=true" 
   />
-  <img 
+  </p>
+</div>
+
+<div>
+  <p>
+    <img 
     height="155" 
     width="390"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight" 
-  />
-</p>
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maayan0&layout=compact&theme=tokyonight"/>
+  </p>
+
+</div>
+
+
