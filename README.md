@@ -1,4 +1,4 @@
-# 🐺 Mayan
+# 🐺 Mayan Maciel de Almeida
 
 **`Projetos pessoais de Mayan`**
 <img align="right" alt="gif" height="190px" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif"/> 
