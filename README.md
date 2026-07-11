@@ -11,7 +11,7 @@
 
 ## 📖 linguagens e tecnologias
 <img 
-    align="left" 
+    align="center" 
     alt="Arduino"
     title="Arduino" 
     width="30px" 
@@ -19,7 +19,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
 />
 <img 
-    align="left" 
+   align="center" 
     alt="CPP"
     title="C++" 
     width="30px" 
@@ -28,7 +28,7 @@
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="python"
     title="Python" 
     width="30px" 
@@ -36,7 +36,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"
 />
 <img 
-    align="left" 
+    align="center" 
     alt="python"
     title="Python" 
     width="30px" 
